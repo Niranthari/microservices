@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>OnlineAdBookingPortal</groupId>
+    <artifactId>service-registration-and-discovery</artifactId>
+    <version>0.1.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>eureka-client</module>
+        <module>eureka-service</module>
+        <module>property-services</module>
+        <module>FAQ-question-service</module>
+        <module>adTypes-service</module>
+        <module>announcement-service</module>
+        <module>astrology-service</module>
+        <module>bookAd-service</module>
+        <module>business-service</module>
+        <module>change-of-name-service</module>
+        <module>get-categories-service</module>
+        <module>help-service</module>
+        <module>obituary-service</module>
+        <module>other-categories-service</module>
+        <module>payment-service</module>
+        <module>property-services</module>
+        <module>public-tender-service</module>
+        <module>recruitment-service</module>
+        <module>retail-service</module>
+        <module>tenders-auction-service</module>
+        <module>travel-service</module>
+        <module>user-history-service</module>
+        <module>user-profile-service</module>
+    </modules>
+
+</project>
